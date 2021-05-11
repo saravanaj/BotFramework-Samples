@@ -11,7 +11,7 @@
   "dependencies": {
     "botbuilder": "^3.9.0",
     "devnull": "0.0.12",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
     "restify": "^5.0.1"
